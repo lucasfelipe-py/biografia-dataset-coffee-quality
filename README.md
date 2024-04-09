@@ -1,11 +1,11 @@
 ## Biografia do Dataset
-- **Link:** <br>[Dataset](Coffee_Qlty.csv)
+- **Link**: <br>[Dataset](Coffee_Qlty.csv)
 
-- **Descrição:** <br>O dataset possui informações detalhadas sobre a avaliação da qualidade de diferentes tipos de café, incluindo aspectos como aroma, sabor, corpo, equilíbrio, e outros. Ele provavelmente foi criado para oferecer insights sobre as características que contribuem para a qualidade do café em benefício de produtores, consumidores e interessados em entender e melhorar a qualidade do café.
+- **Descrição**: <br>O dataset possui informações detalhadas sobre a avaliação da qualidade de diferentes tipos de café, incluindo aspectos como aroma, sabor, corpo, equilíbrio, e outros. Ele provavelmente foi criado para oferecer insights sobre as características que contribuem para a qualidade do café em benefício de produtores, consumidores e interessados em entender e melhorar a qualidade do café.
 
-- **Formato do dataset:** <br>CSV
+- **Formato do dataset**: <br>CSV
 
-- **Dados Faltantes:** <br>Há campos com valores ausentes, como o ano da colheita para algumas entradas e o método de processamento para outras. Isso pode requerer atenção na limpeza dos dados antes de qualquer análise posterior.
+- **Dados Faltantes**: <br>Há campos com valores ausentes, como o ano da colheita para algumas entradas e o método de processamento para outras. Isso pode requerer atenção na limpeza dos dados antes de qualquer análise posterior.
 
 ## Estrutura do Dataset
 - **ID**: Um identificador único para cada registro
@@ -18,14 +18,14 @@
 - **Cor**: A cor dos grãos de café
 - **Método de Processamento**: Como o café foi processado
 - **Quakers (tipo de defeito)**: 0 para "não possui", 1 para "possui"
-- Aroma: Nota de 0 a 10
-- Sabor: Nota de 0 a 10
-- Corpo: Nota de 0 a 10
-- Equilíbrio: Nota de 0 a 10
-- Uniformidade: Nota de 0 a 10
-- Xícara Limpa: Nota de 0 a 10
-- Doçura: Nota de 0 a 10
-- Umidade: Nota de 0 a 10
+- **Aroma**: Nota de 0 a 10
+- **Sabor**: Nota de 0 a 10
+- **Corpo**: Nota de 0 a 10
+- **Equilíbrio**: Nota de 0 a 10
+- **Uniformidade**: Nota de 0 a 10
+- **Xícara Limpa**: Nota de 0 a 10
+- **Doçura**: Nota de 0 a 10
+- **Umidade**: Nota de 0 a 10
 
 ## Disponibilidade
 [Kaggle Dataset](https://www.kaggle.com/datasets/adampq/coffee-quality-with-locations-of-origin)<br>
