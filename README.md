@@ -9,7 +9,7 @@
 
 ## Estrutura do Dataset
 - **ID**: Um identificador único para cada registro
-- **Espécie**: A espécie do café (como Arábica)
+- **Espécie**: A espécie do café
 - **Continente de Origem**: O continente onde o café foi cultivado
 - **País de Origem**: O país específico de origem do café
 - **Ano da Colheita**: O ano em que o café foi colhido
